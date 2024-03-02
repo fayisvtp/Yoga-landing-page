@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    background-image: url('./assets//heropattern.png');
+}
+.heading {
+    font-family: 'Lato';
+    font-size:small ;
+    font-size: 64px;
+    text-transform: capitalize; 
+    line-height: 1;
+}
+.button_hero{
+    background-color: #5b5f97;
+    color: white;
+    border: none;
+    
+}
+.decor_area{
+    background-image: url('./assets//decor.png');
+}
